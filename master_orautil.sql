@@ -1,6 +1,7 @@
 conn orautil/orautil@maitacp
 
 REM Master Script to be ran after migraton of ORAUTIL schema
+REM Test Git merge
 
 SET    HEADING      OFF
 SET    LINESIZE     2000
